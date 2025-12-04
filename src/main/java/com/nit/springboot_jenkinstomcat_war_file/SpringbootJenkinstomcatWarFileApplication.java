@@ -23,6 +23,6 @@ public class SpringbootJenkinstomcatWarFileApplication {
 	
 	public String jenkins() {
 		
-		return "<body bgcolor=red>This is the jenkins automation test</body>";
+		return "<body bgcolor=green><center><h1>This is the jenkins automation test</body>";
 	}
 }
